@@ -2,6 +2,9 @@
   "private": true,
   "index": "primitives.js",
   "tests": [
+    { "name": "marlene",
+      "tag": [ "my-test" ]
+    },
     {
       "name": "primitives",
       "tags": [ "basics", "declaration" ]
